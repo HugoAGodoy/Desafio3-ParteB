@@ -1,0 +1,19 @@
+img {
+  border: solid 10px white;
+  margin: 5px;
+}
+
+body {
+  background-color: #289688;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #fcea3e;
+  text-align: center;
+  font-size: 50px;
+}
+
+.fotos {
+  text-align:center;
+} 
